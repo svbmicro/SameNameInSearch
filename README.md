@@ -1,4 +1,4 @@
-# Objects with same name in search
+# Objects with the same name in search
 
 I think everebody are checking for the same names objects or MSTR search work like on screenshot.
 ![Same name](https://github.com/svbmicro/SameNameInSearch/blob/master/Samename.PNG)
