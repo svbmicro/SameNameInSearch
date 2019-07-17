@@ -7,7 +7,7 @@ Starting a new project I made sure that it is not so and I must create checking 
 
 There are two scripts in repository. 
 procedure.java - java code for command manager 
-query.sql - if you have access to meta database
+oracle.sql - if you have access to meta database
 
 
 
