@@ -6,7 +6,7 @@ I think everebody are checking for the same names objects in MSTR or search work
 I made sure that it is not so and I must create checking script.
 
 There are two scripts in repository. 
-procedure.java - java code for command manager 
+procedure.java - java code for command manager, 
 oracle.sql - if you have access to meta database
 
 
